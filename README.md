@@ -12,7 +12,6 @@
             margin: 0;
             padding: 0;
             background-color: #f4f4f4;
-           
         }
         header {<link rel="stylesheet" href="styles.css">
             background-color: #2c3e50;
