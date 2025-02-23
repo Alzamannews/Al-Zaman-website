@@ -6,14 +6,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>يوسف - الزمن الإخبارية</title>
     <style>
-        body {
+        body {<script src="script.js"></script>
             font-family: Arial, sans-serif;
             direction: rtl;
             margin: 0;
             padding: 0;
             background-color: #f4f4f4;
+           
         }
-        header {<script src="script.js"></script>
+        header {<link rel="stylesheet" href="styles.css">
             background-color: #2c3e50;
             color: white;
             padding: 10px 0;
