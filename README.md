@@ -89,9 +89,7 @@
     <a href="#">التواصل</a>
     <a href="#">عن الموقع</a>
 </nav>
-
 <div class="container">
-
     <div class="news-section">
         <h2>آخر الأخبار</h2>
         <div class="news-article">
@@ -103,7 +101,6 @@
             <p>محتوى الخبر الثاني. يمكن إضافة تفاصيل إضافية حول الخبر أو المقال.</p>
         </div>
     </div>
-
     <div class="contact-form">
         <h2>تواصل معنا</h2>
         <form action="#" method="post">
