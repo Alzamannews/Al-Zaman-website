@@ -134,3 +134,30 @@
   
   <button type="submit">إرسال</button>
 </form>
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f5f5f5;
+    color: #333;
+}
+
+h1 {
+    text-align: center;
+    color: #2c3e50;
+}
+
+nav {
+    background-color: #34495e;
+    padding: 15px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    margin: 0 15px;
+}
+
+nav a:hover {
+    background-color: #2980b9;
+}
