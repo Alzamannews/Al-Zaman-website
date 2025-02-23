@@ -6,7 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>الزمن الإخبارية</title>
     <style>
-        body {<script src="script.js"></script>
+        body {<script src="script.js"></script><script async src="https://cse.google.com/cse.js?cx=418ec096bf65248f1">
+</script>
+<div class="gcse-search"></div>
             font-family: Arial, sans-serif;
             direction: rtl;
             margin: 0;
