@@ -13,7 +13,7 @@
             padding: 0;
             background-color: #f4f4f4;
         }
-        header {
+        header {<script src="script.js"></script>
             background-color: #2c3e50;
             color: white;
             padding: 10px 0;
