@@ -117,7 +117,9 @@
     <p>&copy; 2025 يوسف - الزمن الإخبارية</p>
 </footer>
 
-</body>
+</body><script async src="https://cse.google.com/cse.js?cx=418ec096bf65248f1">
+</script>
+<div class="gcse-search"></div>
 </html>
 <form action="?" method="POST">
   <label for="name">الاسم:</label>
