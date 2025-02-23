@@ -119,3 +119,14 @@
 
 </body>
 </html>
+<form action="?" method="POST">
+  <label for="name">الاسم:</label>
+  <input type="text" name="name" required><br><br>
+  
+  <label for="email">البريد الإلكتروني:</label>
+  <input type="email" name="email" required><br><br>
+  
+  <div class="g-recaptcha" data-sitekey=6LdN_d8qAAAAAHNf_EZPyz3Ccn7uaWZtJJyTsGRX></div><br>
+  
+  <button type="submit">إرسال</button>
+</form>
