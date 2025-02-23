@@ -1,3 +1,3 @@
-document.querySelector('button').addEventListener('click', function() {
+ector('button').addEventListener('click', function() {
     alert('تم إرسال الرسالة!');
 });
