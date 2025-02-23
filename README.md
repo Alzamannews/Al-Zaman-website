@@ -119,7 +119,7 @@
     <p>&copy; 2025 يوسف - الزمن الإخبارية</p>
 </footer>
 
-</body><script async src="https://cse.google.com/cse.js?cx=418ec096bf65248f1">
+</body>
 </script>
 <div class="gcse-search"></div>
 </html>
